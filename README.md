@@ -94,7 +94,7 @@ The system is evaluated using:
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AbdulGhani002/knowledge-representation-and-reasoning-project.git
 Navigate to the project directory:
 cd your-repo-name
 Open the notebook:
